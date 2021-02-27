@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.tdk.redis.RedisPoolConfig",
+      "sourceType": "com.tdk.redis.RedisPoolConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.tdk.redis.RedisPoolConfig"
+    },
+    {
+      "name": "spring.redis.pool-max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tdk.redis.RedisPoolConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "spring.redis.pool-max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tdk.redis.RedisPoolConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "spring.redis.pool-max-wait",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tdk.redis.RedisPoolConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tdk.redis.RedisPoolConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "spring.redis.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tdk.redis.RedisPoolConfig",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

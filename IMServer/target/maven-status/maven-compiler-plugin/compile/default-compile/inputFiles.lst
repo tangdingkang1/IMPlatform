@@ -1,0 +1,12 @@
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\netty\SocketClientComponent.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\entity\ChatList.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\config\NettySocketioConfig.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\util\DateUtil.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\dao\ChatDao.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\entity\ChatHistoryRequest.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\test\testRedisPool.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\netty\NettySocketioServer.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\entity\ChatHistory.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\NettySocketioApplication.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\redis\RedisPool.java
+D:\AATDK\IMPlatform\IMServer\src\main\java\com\tdk\redis\RedisPoolConfig.java

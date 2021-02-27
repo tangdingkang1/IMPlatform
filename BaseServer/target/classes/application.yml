@@ -1,0 +1,24 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://101.37.158.1:3306/im_project?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=UTC
+      username: root
+      password: root
+  redis:
+    database: 0
+#    host: 192.168.1.123
+    host: 101.37.158.1
+    port: 6379
+    timeout: 1000
+    poolMaxTotal: 1000
+    poolMaxIdle: 500
+    poolMaxWait: 500
+mybatis:
+  mapper-locations: classpath:mapper/*.xml  #ע�⣺һ��Ҫ��Ӧmapperӳ��xml�ļ�������·��
+  type-aliases-package: com.tdk.entity  # ע�⣺��Ӧʵ�����·��
+  configuration:
+    map-underscore-to-camel-case: true
